@@ -147,11 +147,7 @@ budgeteuse/
 
 Ce projet est sous licence **MIT** — libre d’utilisation et de modification.
 
----
 
-✨ _"Prenez le contrôle de vos finances avec simplicité et clarté."_
-
-```
 
 ---
 
