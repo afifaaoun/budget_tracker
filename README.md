@@ -132,7 +132,7 @@ budgeteuse/
 
 ## 📸 Aperçu
 
-![Aperçu du tableau de bord](./screenshot.webp)
+![Aperçu du tableau de bord](./front/public/screenshot.webp)
 
 ---
 
